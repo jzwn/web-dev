@@ -1,2 +1,20 @@
-The <pre> tag in HTML is used to display preformatted text. This tag helps to keep all the spaces, tabs, and line breaks exactly as we write them in the code. 
+The <pre> tag in HTML is used to display preformatted text. 
+This tag helps to keep all the spaces, tabs, and line breaks exactly as we write them in the code. 
 This is different from normal text where extra spaces or tabs may be ignored by the browser.
+
+Code : 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spaced Text</title>
+</head>
+<body>
+<h2>Spaced Text Example Website</h2>
+<br>
+    <pre><h4>
+Welcome		to		our		website!
+We			have		great	products.
+    </h4></pre>
+</body>
+</html>
