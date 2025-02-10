@@ -1,10 +1,22 @@
 div {
     border: 2px solid black; /* Border with black color */
     color: #333; /* Text color */
-    background-color: #f0f0f0; /* Light gray background */
+    background-color: #ADD8E6; /* Light blue background */
     font-style: italic; /* Italic font style */
     font-size: 16px; /* Font size */
     font-family: Arial, sans-serif; /* Font family */
     padding: 10px; /* Padding inside divs */
     margin: 10px 0; /* Margin to separate divs */
+}
+.body {
+    background-color: #ffffff; /* White background */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+/* Apply styles to h1 */
+.header {
+    color: #0056b3; /* Dark blue text color */
+    font-size: 24px; /* Font size */
+    font-weight: bold; /* Bold font weight */
+    text-align: center; /* Center alignment */
 }
