@@ -13,10 +13,17 @@ div {
     font-family: Arial, sans-serif;
 }
 
-/* Apply styles to h1 */
 .header {
     color: #0056b3;
     font-size: 24;
     font-weight: bold;
     text-align: center;
+}
+.footer {
+    background-color: #00274D;
+    color: #ffffff;
+    font-style: normal; 
+    text-align: center;
+    padding: 15;
+    font-size: 14;
 }
