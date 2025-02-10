@@ -1,22 +1,22 @@
 div {
-    border: 2px solid black; /* Border with black color */
-    color: #333; /* Text color */
-    background-color: #ADD8E6; /* Light blue background */
-    font-style: italic; /* Italic font style */
-    font-size: 16px; /* Font size */
-    font-family: Arial, sans-serif; /* Font family */
-    padding: 10px; /* Padding inside divs */
-    margin: 10px 0; /* Margin to separate divs */
+    border: 2;
+    color: #333;
+    background-color: #ADD8E6;
+    font-style: italic;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px 0;
 }
 .body {
-    background-color: #ffffff; /* White background */
-    font-family: Arial, sans-serif; /* Font family */
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
 }
 
 /* Apply styles to h1 */
 .header {
-    color: #0056b3; /* Dark blue text color */
-    font-size: 24px; /* Font size */
-    font-weight: bold; /* Bold font weight */
-    text-align: center; /* Center alignment */
+    color: #0056b3;
+    font-size: 24;
+    font-weight: bold;
+    text-align: center;
 }
