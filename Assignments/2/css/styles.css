@@ -18,7 +18,7 @@ div {
 .header {
     border: 1px solid #00274D;
     border-radius: 12px;
-    border-style: ridge;
+    border-style: dotted;
     background-color: #d3d3d3;
     color: #0056b3;
     font-size: 24;
