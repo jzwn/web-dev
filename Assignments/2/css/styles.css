@@ -7,6 +7,8 @@ div {
     font-style: italic;
     font-size: 16px;
     font-family: Arial, sans-serif;
+    padding: 7px;
+    margin: 7px 0;
 }
 .body {
     background-color: #e0e0e0;
@@ -22,11 +24,15 @@ div {
     font-size: 24;
     font-weight: bold;
     text-align: center;
+    padding: 20px;
+    margin: 10px 0;
 }
 .footer {
     background-color: #00274D;
     color: #ffffff;
     font-style: normal; 
     text-align: center;
+    font-size: 14;
+    padding: 15;
     font-size: 14;
 }
