@@ -9,12 +9,12 @@ div {
     margin: 10px 0;
 }
 .body {
-    background-color: #d3d3d3;
+    background-color: #e0e0e0;
     font-family: Arial, sans-serif;
 }
 
 .header {
-    background-color: #e0e0e0;
+    background-color: #d3d3d3;
     color: #0056b3;
     font-size: 24;
     font-weight: bold;
